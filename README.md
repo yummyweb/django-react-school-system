@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center">
   Django + React School System for DEV and DO Hackathon
-</p>
+</h3>
 
 This project is built with Django REST Framework and React along with Ant Design.
 
